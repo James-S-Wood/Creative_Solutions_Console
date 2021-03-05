@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Creative_Solutions_Console/1.0.0": {
+        "runtime": {
+          "Creative_Solutions_Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creative_Solutions_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

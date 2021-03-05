@@ -8,7 +8,7 @@ namespace Creative_Solutions_Console
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I amd looking forward to learning C# and the .Net Framework.");
-            
+            Console.WriteLine("Just going to add another line for fun.");
         }
     }
 }
